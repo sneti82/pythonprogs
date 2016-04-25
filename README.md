@@ -1,2 +1,2 @@
 # pythonprogs
-ok so i edited my readme file
+place to store all my python pratice code
